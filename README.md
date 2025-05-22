@@ -22,7 +22,7 @@
 ## 🧠 Top Projects
 
 - 🔬 [**Power-Efficient 4-bit Flash ADC**] – Cadence Virtuoso + SNR & Delay Optimized
-- 🚦 [**HeMo-VLSI Health Monitoring through VLSI**] – RTL to GDSII   
+- 🚦 [**HealthASIC: Biomedical Metric Processo**] – RTL to GDSII   
 - 🌐 [**Ethernet-Based Temperature Monitoring**] – PIC18F + TCP/IP + Real-time Graphing  
 - 🧬 [**Deep Learning On Biomedical Image Processing**] – PyTorch + Transformer Models
 - 🌿 [**Smart Plant Monitoring System**] – ESP8266 + Soil Moisture + Blynk + Real-time Notifications
