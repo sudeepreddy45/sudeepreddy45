@@ -22,7 +22,8 @@
 ## 🧠 Top Projects
 
 - 🔬 [**Power-Efficient 4-bit Flash ADC**] – Cadence Virtuoso + SNR & Delay Optimized
-- 🚦 [**HealthASIC: Biomedical Metric Processo**] – RTL to GDSII   
+- 🚦 [**HealthASIC: Biomedical Metric Processor**] – RTL to GDSII
+- 🧮 [**A High-speed CMOS Comparator with 8-b Resolution**]– Designed and simulated a high-speed comparator with accurate offset reduction using Cadence tools
 - 🌐 [**Ethernet-Based Temperature Monitoring**] – PIC18F + TCP/IP + Real-time Graphing  
 - 🧬 [**Deep Learning On Biomedical Image Processing**] – PyTorch + Transformer Models
 - 🌿 [**Smart Plant Monitoring System**] – ESP8266 + Soil Moisture + Blynk + Real-time Notifications
